@@ -15,4 +15,6 @@ matplotlib
 seaborn
 pillow
 requests
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+streamlit
+ipython
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118

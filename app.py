@@ -53,7 +53,7 @@ def analyze_captions(caption):
 
 # Streamlit app
 def main():
-    st.title("Image Caption Generator using CLIP")
+    st.title("Ad Campaign Recognition")
     st.write("Upload an image (PNG or JPEG) to generate a caption.")
 
     # Upload image
